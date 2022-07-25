@@ -2,7 +2,7 @@
 EclipsedOS is a linux distro made to run on low end devices(chrome devices should run well).
 
 If you want to test it out please feel free to download the image file here:
-
+ Coming in a few minutes
 
 Known issues:
 
