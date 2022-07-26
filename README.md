@@ -17,7 +17,7 @@ Known issues:
     -The themes don't apply correctly.(installer)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
 
-#Changelog
+# Changelog
     
     #EclipsedOS 1.0 alpha 0.0.4 -> EclipsedOS 1.0 alpha 0.0.5
     
@@ -35,7 +35,19 @@ Known issues:
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
 
-#EclipsedOS 1.0 alpha 0.0.4:
+# EclipseOS 1.0 alpha 0.0.5
+
+    (?)
+
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.
+    -The boot screen is broken(installer only).
+    -The themes don't apply correctly.(installer)
+    -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
+
+
+# EclipsedOS 1.0 alpha 0.0.4:
     
     https://drive.google.com/file/d/1UOZT5Qs0IdWvnXRrmH0yvtk7ykD4ukqW/view?usp=sharing
 
@@ -47,7 +59,7 @@ Known issues:
     -The themes don't apply correctly.(?)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
 
-#EclipsedOS 1.0 alpha 0.0.1:
+# EclipsedOS 1.0 alpha 0.0.1:
     
     https://drive.google.com/file/d/1DqzQ0QRnn5_DW7pkbJu3_UxM_iSCw8ZT/view
 
