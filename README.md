@@ -12,8 +12,8 @@ If you want to test the latest version please feel free to download the image fi
 
 Known issues:
   
-    -The "Media Keys"(chromebooks) don't work
-    -The boot screen is broken(installer only)
+    -The "Media Keys"(chromebooks) don't work.
+    -The boot screen is broken(installer only).
     -The "Applications Menu" has the wrong icon and is not configured correctly when installed.
     -The themes don't apply correctly.(?)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
@@ -35,8 +35,8 @@ Known issues:
 
 Known issues:
   
-    -The "Media Keys"(chromebooks) don't work
-    -The boot screen is broken(installer only)
+    -The "Media Keys"(chromebooks) don't work.
+    -The boot screen is broken(installer only).
     -The "Applications Menu" has the wrong icon and is not configured correctly when installed.
     -The themes don't apply correctly.(?)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
@@ -49,8 +49,9 @@ Known issues:
 
     -Some apps don't launch(firefox is an example)
     -You can't make new accounts.
-    -The "Media Keys"(chromebooks) don't work
-    -The boot screen is broken(installer only)
+    -The "Media Keys"(chromebooks) don't work.
+    -The boot screen is broken(installer only).
+    -The package manager is semi broken.
     -The "Applications Menu" has the wrong icon and is not configured correctly when installed.
     -The themes don't apply correctly.
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
