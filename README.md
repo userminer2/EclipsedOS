@@ -18,7 +18,8 @@ Known issues:
 
 #Changelog
     
-    -Shrunk the iso down from 1.6GB -> 1.38GB.
+    #EclipsedOS 1.0 alpha 0.0.1 - EclipsedOS 1.0 alpha 0.0.4
+    -Shrunk the iso down from 1.6GB -> 1.37GB.
     -Fixed The translucent elements.
     -Shunk the final instal size from 6.5GB -> 5.6GB
     -Fixed the "Icons".(?)
