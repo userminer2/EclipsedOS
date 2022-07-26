@@ -1,4 +1,4 @@
-**#About EclipsedOS:**
+# **#About EclipsedOS:**
 
 
 EclipsedOS is a linux distro made to run on low end devices (chrome devices should run this operating system well).
