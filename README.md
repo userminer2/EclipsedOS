@@ -20,9 +20,13 @@ Known issues:
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
 
 #Changelog
+    
     -Shrunk the iso down from 1.6GB -> 1.38GB.
+    
     -Fixed The translucent elements.
+    
     -Shunk the final instal size from 6.5GB -> 5.6GB
+    
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
