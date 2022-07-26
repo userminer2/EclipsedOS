@@ -1,5 +1,5 @@
-#EclipseOS
-EclipsedOS is a linux distro made to run on low end devices(chrome devices should run well).
+
+#EclipsedOS is a linux distro made to run on low end devices(chrome devices should run well).
 
     (If there is a link there are no new releases but if there is a question mark then a new release is being compiled).
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
