@@ -12,7 +12,7 @@ Known issues:
   
     -The "Media Keys"(chromebooks) don't work
     -The boot screen is broken(installer only)
-    -The "Applications Menu" has the wrong icon and is not configured correctly when installed.(?)
+    -The "Applications Menu" has the wrong icon and is not configured correctly when installed.
     -The temes don't apply correctly.(?)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
 
@@ -35,8 +35,8 @@ Known issues:
   
     -The "Media Keys"(chromebooks) don't work
     -The boot screen is broken(installer only)
-    -The "Applications Menu" has the wrong icon and is not configured correctly when installed.(?)
-    -The temes don't apply correctly.(?)
+    -The "Applications Menu" has the wrong icon and is not configured correctly when installed.
+    -The themes don't apply correctly.(?)
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
 
 #EclipsedOS 1.0 alpha 0.0.1:
