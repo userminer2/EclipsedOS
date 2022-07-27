@@ -21,7 +21,6 @@ Known issues:
     
     #EclipsedOS 1.0 alpha 0.0.4 -> EclipsedOS 1.0 alpha 0.0.5
     
-    -Shrunk the iso down from 1.376GB -> 1.37GB.
     -Shunk the final instal size from 5.6GB -> 5.5GB.
     -Fixed The translucent elements.
     -Fixed the Applications menu icon.
