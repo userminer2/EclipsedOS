@@ -8,17 +8,26 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1M-Q1xj7ZRbFVq0wYiO89B1e8odXKjW5z/view?usp=sharing
+https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view?usp=sharing
 
-Known issues:
+If you want the most stable version you can get it here:
+
+
+
+# Known issues:
   
-    -Is far too unstable to be used in general 
-    -The "Media Keys"(chromebooks) don't work.
+    -Applications menu icon is bugged again
+    -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
-    -The themes don't apply correctly.(installer)
-    -The default resolution is 1400 900 but this shouldn't be a problem on a real display.(?)
+    -The themes don't apply correctly on installer when using a legacy bios.
 
 # Changelog
+    
+    #EclipsedOS 1.0 alpha 0.0.6 -> EclipsedOS 1.0 alpha 0.0.7
+    
+    -Fixed almost every bug from EclipsedOS 1.0 alpha 0.0.6 and made the system stable.
+    -Changed the theme of the login screen.
+    -Fixed the installer resolution.
     
     #EclipsedOS 1.0 alpha 0.0.5 -> EclipsedOS 1.0 alpha 0.0.6
     
@@ -40,6 +49,17 @@ Known issues:
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+
+# EclipsedOS 1.0 alpha 0.0.7
+    
+https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view?usp=sharing
+
+Known issues:
+  
+    -Applications menu icon is bugged again
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The boot screen is has the wrong logo(installer only).
+    -The themes don't apply correctly on installer when using a legacy bios.
 
 # EclipsedOS 1.0 alpha 0.0.6
     
