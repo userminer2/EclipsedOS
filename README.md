@@ -10,9 +10,9 @@ If you want to test the latest version please feel free to download the image fi
     
 https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view?usp=sharing
 
-If you want the most stable version you can get it here:
+If you want the most stable version you can get it here (currently EclipsedOS 1.0 alpha 0.0.5):
 
-
+https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
 
 # Known issues:
   
@@ -76,7 +76,7 @@ Known issues:
 
 # EclipseOS 1.0 alpha 0.0.5
 
-    https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
+https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
 
 Known issues:
   
@@ -88,7 +88,7 @@ Known issues:
 
 # EclipsedOS 1.0 alpha 0.0.4:
     
-    https://drive.google.com/file/d/1UOZT5Qs0IdWvnXRrmH0yvtk7ykD4ukqW/view?usp=sharing
+https://drive.google.com/file/d/1UOZT5Qs0IdWvnXRrmH0yvtk7ykD4ukqW/view?usp=sharing
 
 Known issues:
   
@@ -100,7 +100,7 @@ Known issues:
 
 # EclipsedOS 1.0 alpha 0.0.1:
     
-    https://drive.google.com/file/d/1DqzQ0QRnn5_DW7pkbJu3_UxM_iSCw8ZT/view
+https://drive.google.com/file/d/1DqzQ0QRnn5_DW7pkbJu3_UxM_iSCw8ZT/view
 
 Known issues:
 
