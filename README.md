@@ -8,7 +8,7 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view?usp=sharing
+https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view
 
 If you want the most stable version you can get it here (currently EclipsedOS 1.0 alpha 0.0.5):
 
@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
 
 # EclipsedOS 1.0 alpha 0.0.7
     
-https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view?usp=sharing
+https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view
 
 Known issues:
   
@@ -63,7 +63,7 @@ Known issues:
 
 # EclipsedOS 1.0 alpha 0.0.6
     
-https://drive.google.com/file/d/1M-Q1xj7ZRbFVq0wYiO89B1e8odXKjW5z/view?usp=sharing
+https://drive.google.com/file/d/1M-Q1xj7ZRbFVq0wYiO89B1e8odXKjW5z/view
 
 Known issues:
   
