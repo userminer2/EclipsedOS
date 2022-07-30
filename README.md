@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1PrdVOpSg1pIpqx2Y5bqRpIrq_TkgFsHj/view
 
 # Known issues:
   
-    -Restarting the system is extremely buggy
+    -Restarting the system is extremely buggy.
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
     -The themes don't apply correctly on installer when using a legacy bios.
