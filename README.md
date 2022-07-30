@@ -8,20 +8,26 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1DDoAwdYhQf6CYBHUcHMyR1dm3PZOoezA/view
+https://drive.google.com/file/d/1PrdVOpSg1pIpqx2Y5bqRpIrq_TkgFsHj/view
 
-If you want the most stable version you can get it here (currently EclipsedOS 1.0 alpha 0.0.5):
+If you want the most stable version you can get it here (currently EclipsedOS 1.0 alpha 0.0.8):
 
-https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
+https://drive.google.com/file/d/1PrdVOpSg1pIpqx2Y5bqRpIrq_TkgFsHj/view
 
 # Known issues:
   
-    -Applications menu icon is bugged again
+    -Restarting the system is extremely buggy
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
     -The themes don't apply correctly on installer when using a legacy bios.
 
 # Changelog
+    
+    #EclipsedOS 1.0 alpha 0.0.7 -> EclipsedOS 1.0 alpha 0.0.8
+    
+    -Made the OS stable enough for daily use again
+    -Fixed all icons.(?)
+    -Final install size is now 5.8 GB and 5.7GB after applying updates.
     
     #EclipsedOS 1.0 alpha 0.0.6 -> EclipsedOS 1.0 alpha 0.0.7
     
@@ -49,6 +55,17 @@ https://drive.google.com/file/d/1ZUFJK_BphttDnycU_Nw3ZfgxXikQ3xC9/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+
+# EclipsedOS 1.0 alpha 0.0.8
+    
+https://drive.google.com/file/d/1PrdVOpSg1pIpqx2Y5bqRpIrq_TkgFsHj/view
+
+Known issues:
+  
+    -Restarting the system is extremely buggy.
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The boot screen is has the wrong logo(installer only).
+    -The themes don't apply correctly on installer when using a legacy bios.
 
 # EclipsedOS 1.0 alpha 0.0.7
     
