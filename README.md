@@ -63,6 +63,16 @@ https://drive.google.com/file/d/1DDNAo4hVeef4UEvhv2Ph_VUMkDyAZFg5/view
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
 
+# EclipsedOS 1.0 alpha 0.0.9
+    
+https://drive.google.com/file/d/1DDNAo4hVeef4UEvhv2Ph_VUMkDyAZFg5/view
+
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The boot screen is has the wrong logo(installer only).
+    -The themes don't apply correctly on installer when using a legacy bios.
+
 # EclipsedOS 1.0 alpha 0.0.8
     
 https://drive.google.com/file/d/1PrdVOpSg1pIpqx2Y5bqRpIrq_TkgFsHj/view
