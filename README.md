@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
     -The themes don't apply correctly on installer when using a legacy bios.
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
+    -Cleaned up the desktop.
 
 # Changelog
     
