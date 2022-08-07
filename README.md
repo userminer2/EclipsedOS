@@ -24,15 +24,16 @@ https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
 
 # Changelog
     
-#EclipsedOS 1.0 alpha 0.0.9 -> EclipsedOS 1.0 beta 0.1.0
+    #EclipsedOS 1.0 alpha 0.0.9 -> EclipsedOS 1.0 beta 0.1.0
     
     -Shrunk the final install from 5.3GB -> 5.1GB.
     -Updated desktop background.
     -Improved overall stability.
     -Added 2 workspaces and workspace switcher to panel by default.
-    -The trackpad and audio can be buggy on some chromebook models(only brasewell chromebooks are properly supported (?)).
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
     
-#EclipsedOS 1.0 alpha 0.0.8 -> EclipsedOS 1.0 alpha 0.0.9
+    #EclipsedOS 1.0 alpha 0.0.8 -> EclipsedOS 1.0 alpha 0.0.9
     
     -Shrunk the iso down from 1.35GB -> 1.29GB.
     -Shrunk the final install from 5.7GB -> 5.3GB.
