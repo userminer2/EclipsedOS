@@ -20,7 +20,8 @@ https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
     -The themes don't apply correctly on installer when using a legacy bios.
-    -The trackpad and audio can be buggy on some chromebook models(only brasewell chromebooks are properly supported (?)).
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
 
 # Changelog
     
