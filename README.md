@@ -84,6 +84,8 @@ Known issues:
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
     -The themes don't apply correctly on installer when using a legacy bios.
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
 
 # EclipsedOS 1.0 alpha 0.0.9
     
