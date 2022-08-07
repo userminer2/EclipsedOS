@@ -5,22 +5,32 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
     (If there is a link there are no new releases but if there is a question mark then a new release is being compiled).
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
+    (Chromebook support is not guarenteed).
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1DDNAo4hVeef4UEvhv2Ph_VUMkDyAZFg5/view
+https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
 
-If you want the most stable version you can get it here (currently EclipsedOS 1.0 alpha 0.0.9):
+If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.0):
 
-https://drive.google.com/file/d/1DDNAo4hVeef4UEvhv2Ph_VUMkDyAZFg5/view
+https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
 
 # Known issues:
   
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The boot screen is has the wrong logo(installer only).
     -The themes don't apply correctly on installer when using a legacy bios.
+    -The trackpad and audio can be buggy on some chromebook models(only brasewell chromebooks are properly supported (?)).
 
 # Changelog
+    
+#EclipsedOS 1.0 alpha 0.0.9 -> EclipsedOS 1.0 beta 0.1.0
+    
+    -Shrunk the final install from 5.3GB -> 5.1GB.
+    -Updated desktop background.
+    -Improved overall stability.
+    -Added 2 workspaces and workspace switcher to panel by default.
+    -The trackpad and audio can be buggy on some chromebook models(only brasewell chromebooks are properly supported (?)).
     
 #EclipsedOS 1.0 alpha 0.0.8 -> EclipsedOS 1.0 alpha 0.0.9
     
@@ -62,6 +72,16 @@ https://drive.google.com/file/d/1DDNAo4hVeef4UEvhv2Ph_VUMkDyAZFg5/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+
+# EclipsedOS 1.0 beta 0.1.0
+    
+https://drive.google.com/file/d/1x_iZ-Fs-QVCZLOENeC6rkEnQeugz-Eny/view
+
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The boot screen is has the wrong logo(installer only).
+    -The themes don't apply correctly on installer when using a legacy bios.
 
 # EclipsedOS 1.0 alpha 0.0.9
     
