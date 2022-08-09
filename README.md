@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
 
 # Changelog
 
-     #EclipsedOS 1.0 beta 0.1.0 -> EclipsedOS 1.0 beta 0.1.1
+     #EclipsedOS 1.0 beta 0.1.1 -> EclipsedOS 1.0 beta 0.1.2
     
     -Updated desktop background.
     -Added an alternative to sudo apt "install/remove/purge/autoremove".
