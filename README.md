@@ -28,14 +28,13 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
 
      #EclipsedOS 1.0 beta 0.1.1 -> EclipsedOS 1.0 beta 0.1.2
     
-    -Updated desktop background.
+    -Fixed translucent effects.
     -Added an alternative to sudo apt "install/remove/purge/autoremove".
     -Added command "Install [program name]" to install programs.
     -Added commands "uninstall [program name]" and "remove [program name]" to remove programs.
 
      #EclipsedOS 1.0 beta 0.1.0 -> EclipsedOS 1.0 beta 0.1.1
     
-    -Updated desktop background.
     -Shrunk the iso size from 1.29GB -> 1.28GB.
   
     #EclipsedOS 1.0 alpha 0.0.9 -> EclipsedOS 1.0 beta 0.1.0
