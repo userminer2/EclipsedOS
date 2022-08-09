@@ -9,11 +9,11 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1dOuYKrqRYDbK0iv9t-ypqlsWFwvOFv24/view
+
 
 If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.1):
 
-https://drive.google.com/file/d/1dOuYKrqRYDbK0iv9t-ypqlsWFwvOFv24/view
+
 
 # Known issues:
   
@@ -25,7 +25,14 @@ https://drive.google.com/file/d/1dOuYKrqRYDbK0iv9t-ypqlsWFwvOFv24/view
     -Cleaned up the desktop.
 
 # Changelog
-  
+
+     #EclipsedOS 1.0 beta 0.1.0 -> EclipsedOS 1.0 beta 0.1.1
+    
+    -Updated desktop background.
+    -Added an alternative to sudo apt "install/remove/purge/autoremove".
+    -Added command "Install [program name]" to install programs.
+    -Added commands "uninstall [program name]" and "remove [program name]" to remove programs.
+
      #EclipsedOS 1.0 beta 0.1.0 -> EclipsedOS 1.0 beta 0.1.1
     
     -Updated desktop background.
