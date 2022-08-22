@@ -25,6 +25,11 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
 # Changelog
 
+    
+    #EclipsedOS 1.0 beta 0.1.7 -> EclipsedOS 1.0 beta 0.1.8
+    
+    -Updated Ubiquity info so that it shows the EclipsedOS info.
+    
     #EclipsedOS 1.0 beta 0.1.2 -> EclipsedOS 1.0 beta 0.1.7
     
     -Updated thunar icon(for whatever reason the file manager does not have updated icon despite being the same app).
@@ -102,6 +107,19 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.0 beta 0.1.8
+
+https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
+
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
+    -For whatever reason the file manager does not have updated icon despite being the same app.
+    -Repos do not work.
+
+
 # EclipsedOS 1.0 beta 0.1.7
 
 https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
@@ -112,6 +130,7 @@ Known issues:
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
     -For whatever reason the file manager does not have updated icon despite being the same app.
+    -repos do not work.
 
 # EclipsedOS 1.0 beta 0.1.6
 
