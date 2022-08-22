@@ -25,6 +25,9 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
 
     #EclipsedOS 1.0 beta 0.1.2 -> EclipsedOS 1.0 beta 0.1.7
     
+    -It is now reccomended to install without internet to and then connect to internet to not have any extra space taken up.
+    -Final install size(offline) is now 4.8GB
+    -Unfortunately while upgrading every packages the iso filesize is now 1.52GB
     -Updated grub config files.
     -Updated preseed.
     -Updated all packages hence the larger iso filesize.
@@ -32,7 +35,7 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
     -Fixed the boot screen is has the wrong logo on installer.
     -fixed the themes that don't apply correctly on installer when using a legacy bios.
     -Updated Kernel from 5.13 -5.15 and brasewell chromebooks are now fully supported.(?)
-    
+    -Added codename Lunar
 
     #EclipsedOS 1.0 beta 0.1.1 -> EclipsedOS 1.0 beta 0.1.2
     
@@ -94,6 +97,32 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.0 beta 0.1.7
+
+
+
+# EclipsedOS 1.0 beta 0.1.6
+
+
+
+# EclipsedOS 1.0 beta 0.1.5 
+
+
+
+# EclipsedOS 1.0 beta 0.1.5
+
+
+
+# EclipsedOS 1.0 beta 0.1.4 
+
+
+
+# EclipsedOS 1.0 beta 0.1.3
+
+https://drive.google.com/file/d/1GCpvXXHwzZ9UCJSPi0iy_PRZSYBgsmvY/view
+
+-updated a few install commands
+
 # EclipsedOS 1.0 beta 0.1.2
     
 https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
