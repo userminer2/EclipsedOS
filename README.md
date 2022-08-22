@@ -18,6 +18,7 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 # Known issues:
   
     -The "Media Keys"(chromebooks) don't work.(by default)
+    -For whatever reason the file manager does not have updated icon despite being the same app.
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
 
@@ -25,6 +26,7 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
     #EclipsedOS 1.0 beta 0.1.2 -> EclipsedOS 1.0 beta 0.1.7
     
+    -Updated thunar icon(for whatever reason the file manager does not have updated icon despite being the same app).
     -Updated info on ubiquity (installer).
     -It is now reccomended to install without internet to and then connect to internet to not have any extra space taken up.
     -Final install size(offline) is now 4.8GB
