@@ -9,11 +9,11 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
+https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
-If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.2):
+If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.7):
 
-https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
+https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
 # Known issues:
   
@@ -25,6 +25,7 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
 
     #EclipsedOS 1.0 beta 0.1.2 -> EclipsedOS 1.0 beta 0.1.7
     
+    -Updated info on ubiquity (installer).
     -It is now reccomended to install without internet to and then connect to internet to not have any extra space taken up.
     -Final install size(offline) is now 4.8GB
     -Unfortunately while upgrading every packages the iso filesize is now 1.52GB
@@ -99,13 +100,13 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
 # EclipsedOS 1.0 beta 0.1.7
 
+https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
+
 Known issues:
   
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
-
-https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
 # EclipsedOS 1.0 beta 0.1.6
 
