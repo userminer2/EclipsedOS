@@ -99,23 +99,29 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
 # EclipsedOS 1.0 beta 0.1.7
 
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
 
+https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
 
 # EclipsedOS 1.0 beta 0.1.6
 
-
+https://drive.google.com/file/d/1TaIE9NJ5pM3PCsrQlOuDNoUOWqLTHGb0/view
 
 # EclipsedOS 1.0 beta 0.1.5 
 
-
+https://drive.google.com/file/d/1_EKkTPQF5CHeGQ52jE3b7qMNi80rLdPn/view
 
 # EclipsedOS 1.0 beta 0.1.5
 
-
+https://drive.google.com/file/d/1_EKkTPQF5CHeGQ52jE3b7qMNi80rLdPn/view
 
 # EclipsedOS 1.0 beta 0.1.4 
 
-
+https://drive.google.com/file/d/1JOLgFD12NMS95Nb23fQ-lqhJ-5-r75GI/view
 
 # EclipsedOS 1.0 beta 0.1.3
 
