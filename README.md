@@ -36,7 +36,8 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
     -Fixed the boot screen is has the wrong logo on installer.
     -fixed the themes that don't apply correctly on installer when using a legacy bios.
     -Updated Kernel from 5.13 -5.15 and brasewell chromebooks are now fully supported.(?)
-    -Added codename Lunar
+    -Added codename Lunar.
+    -Updated the Thunar icon.
 
     #EclipsedOS 1.0 beta 0.1.1 -> EclipsedOS 1.0 beta 0.1.2
     
