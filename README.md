@@ -18,12 +18,21 @@ https://drive.google.com/file/d/1Mh4fGMI4-E14NRsdRp_BPsl2omgD9jwK/view
 # Known issues:
   
     -The "Media Keys"(chromebooks) don't work.(by default)
-    -The boot screen is has the wrong logo(installer only).
-    -The themes don't apply correctly on installer when using a legacy bios.
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
 
 # Changelog
+
+    #EclipsedOS 1.0 beta 0.1.2 -> EclipsedOS 1.0 beta 0.1.7
+    
+    -Updated grub config files.
+    -Updated preseed.
+    -Updated all packages hence the larger iso filesize.
+    -Updated boot screen on installer.
+    -Fixed the boot screen is has the wrong logo on installer.
+    -fixed the themes that don't apply correctly on installer when using a legacy bios.
+    -Updated Kernel from 5.13 -5.15 and brasewell chromebooks are now fully supported.(?)
+    
 
     #EclipsedOS 1.0 beta 0.1.1 -> EclipsedOS 1.0 beta 0.1.2
     
