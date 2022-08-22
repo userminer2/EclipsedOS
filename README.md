@@ -110,6 +110,7 @@ Known issues:
     -The "Media Keys"(chromebooks) don't work.(by default)
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
+    -For whatever reason the file manager does not have updated icon despite being the same app.
 
 # EclipsedOS 1.0 beta 0.1.6
 
