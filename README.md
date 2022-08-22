@@ -21,6 +21,7 @@ https://drive.google.com/file/d/1Sr8DHosUblxRZisHl3SYYQXMPWNKtVbh/view
     -For whatever reason the file manager does not have updated icon despite being the same app.
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
+    -Packages system does not work.
 
 # Changelog
 
