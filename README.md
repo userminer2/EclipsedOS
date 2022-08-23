@@ -9,11 +9,11 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
+https://drive.google.com/file/d/1HznZ-Pqflz0aEW0yyN0CsMBShLegTDpA/view
 
-If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.8):
+If you want the most stable version you can get it here (currently EclipsedOS 1.0 beta 0.1.9):
 
-https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
+https://drive.google.com/file/d/1HznZ-Pqflz0aEW0yyN0CsMBShLegTDpA/view
 
 # Known issues:
   
@@ -21,10 +21,13 @@ https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
     -For whatever reason the file manager does not have updated icon despite being the same app.
     -The trackpad and audio can be buggy on some chromebook models
      (only brasewell chromebooks are properly supported (?)).
-    -Packages system does not work.
 
 # Changelog
 
+    
+    #EclipsedOS 1.0 beta 0.1.8 -> EclipsedOS 1.0 beta 0.1.9
+    
+    -Fixed the critical bug to do with the Package manager not working.
     
     #EclipsedOS 1.0 beta 0.1.7 -> EclipsedOS 1.0 beta 0.1.8
     
@@ -107,6 +110,17 @@ https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.0 beta 0.1.9
+
+https://drive.google.com/file/d/1HznZ-Pqflz0aEW0yyN0CsMBShLegTDpA/view
+
+Known issues:
+  
+    -The "Media Keys"(chromebooks) don't work.(by default)
+    -For whatever reason the file manager does not have updated icon despite being the same app.
+    -The trackpad and audio can be buggy on some chromebook models
+     (only brasewell chromebooks are properly supported (?)).
+
 # EclipsedOS 1.0 beta 0.1.8
 
 https://drive.google.com/file/d/1GPCzFd-V8_AKdos9ASJfASygBZft2yHE/view
