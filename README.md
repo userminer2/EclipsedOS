@@ -11,7 +11,7 @@ If you want to test the latest version please feel free to download the image fi
     
 https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
 
-If you want the most stable version you can get it here (currently EclipsedOS 1.0 rc1):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.0 rc1):
 
 https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
 
