@@ -9,20 +9,20 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
+https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.0 rc1):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
 
-https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
+https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
 
 # Known issues:
   
-    -The "Media Keys"(chromebooks) don't work.(by default)
-    -For whatever reason the file manager does not have updated icon despite being the same app.
-    -The trackpad and audio can be buggy on some chromebook models
-     (only brasewell chromebooks are properly supported (?)).
+    -(?)
 
 # Changelog
+    #EclipsedOS 1.0 beta rc1 -> EclipsedOS 1.0
+    
+    -Changed some images on the installer.
 
     #EclipsedOS 1.0 beta 0.2.1 -> EclipsedOS 1.0 rc1
     
@@ -126,6 +126,14 @@ https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.0
+
+https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
+
+Known issues:
+  
+    -(?)
+
 # EclipsedOS 1.0 rc1
 
 https://drive.google.com/file/d/1jZYi1JJO5UsuAL0KvJ3U79Nnh4a8joLt/view
