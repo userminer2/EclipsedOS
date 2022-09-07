@@ -9,7 +9,7 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here:
     
-https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
+https://drive.google.com/file/d/1laHYx-IvSNPdvPlNJSrARspcqRlS6urV/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
 
@@ -20,6 +20,13 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -(?)
 
 # Changelog
+    #EclipsedOS 1.0 -> EclipsedOS 1.1b01
+    
+    -Changed the Background locations.
+    -Updated the .bashrc file (terminal).
+    -All languages now show the slideshow for installation in english.
+    -Updated the xfce configs to need slightly less vram.
+
     #EclipsedOS 1.0 beta rc1 -> EclipsedOS 1.0
     
     -Changed some images on the installer.
@@ -126,6 +133,14 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.1b01
+
+https://drive.google.com/file/d/1laHYx-IvSNPdvPlNJSrARspcqRlS6urV/view
+
+Known issues:
+    
+    -Audio on chromebooks doesn't work to well.
+
 # EclipsedOS 1.0
 
 https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
