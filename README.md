@@ -7,9 +7,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.1b01):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.1b02):
     
-https://drive.google.com/file/d/1laHYx-IvSNPdvPlNJSrARspcqRlS6urV/view
+https://drive.google.com/file/d/1EarmHjJCPivVk4TkdarFgXIZq2cy7QzL/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
 
@@ -17,9 +17,15 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
 
 # Known issues:
   
-    -(?)
+    -Audio won't work well on chromebooks.
+    -Poor performance on USB 2.0.
 
 # Changelog
+    #EclipsedOS 1.1b01 -> EclipsedOS 1.1b02
+    
+    -Updated the default keyboard layout to english GB.
+    -Updated the default screen resolution to 1360 x 768.
+    
     #EclipsedOS 1.0 -> EclipsedOS 1.1b01
     
     -Changed the Background locations.
@@ -133,6 +139,14 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.1b02
+
+https://drive.google.com/file/d/1EarmHjJCPivVk4TkdarFgXIZq2cy7QzL/view
+
+Known issues:
+    -Audio won't work too well.
+    -Runs poorly on USB 2.0.
+
 # EclipsedOS 1.1b01
 
 https://drive.google.com/file/d/1laHYx-IvSNPdvPlNJSrARspcqRlS6urV/view
