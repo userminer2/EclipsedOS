@@ -7,13 +7,13 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.1b03):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.1):
     
-https://drive.google.com/file/d/139F_5rIZ8AHQiOzzixVuInmsoVBSxRsz/view
+https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.1):
 
-https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
+https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
 
 # Known issues:
   
@@ -22,6 +22,14 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -Poor performance on USB 2.0.
 
 # Changelog
+    
+    #EclipsedOS 1.1b03 -> EclipsedOS 1.1
+    
+    -Updated some xfce configs.
+    -1.1 is now out of beta.
+    -Nothing much other than bug fixes.
+    -Have a nice day. :)
+    
     #EclipsedOS 1.1b02 -> EclipsedOS 1.1b03
     
     -Updated keyboard layout to GB chromebook.
@@ -144,6 +152,15 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.1
+
+https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
+
+Known issues:
+    -Audio won't work well on chromebooks.
+    -default keyboard layout is now GB no matter your default layout but you can still change it.
+    -Poor performance on USB 2.0.
+
 # EclipsedOS 1.1b03
 
 https://drive.google.com/file/d/139F_5rIZ8AHQiOzzixVuInmsoVBSxRsz/view
