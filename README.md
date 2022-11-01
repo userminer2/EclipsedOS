@@ -11,17 +11,23 @@ If you want to test the latest version please feel free to download the image fi
     
 https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.1):
+If you want the latest stable version you can get it here (currently EclipsedOS 3122):
 
-https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
+https://drive.google.com/file/d/1_7emiOj-LLB1gpLCPCSZrTTRrwJOLwyG/view
 
 # Known issues:
   
     -Audio won't work well on chromebooks.
     -default keyboard layout is now GB no matter your default layout but you can still change it.
     -Poor performance on USB 2.0.
+    -No firefox :(
 
 # Changelog
+    
+    #EclipsedOS 1.1 -> EclipsedOS 3122
+    
+    -Added experimental AMD support
+    -Changed the color to orange because of halloween.
     
     #EclipsedOS 1.1b03 -> EclipsedOS 1.1
     
@@ -152,6 +158,17 @@ https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 3122
+
+https://drive.google.com/file/d/1_7emiOj-LLB1gpLCPCSZrTTRrwJOLwyG/view
+
+Known issues:
+  
+    -Audio won't work well on chromebooks.
+    -default keyboard layout is now GB no matter your default layout but you can still change it.
+    -Poor performance on USB 2.0.
+    -No firefox :(
+
 # EclipsedOS 1.1
 
 https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
