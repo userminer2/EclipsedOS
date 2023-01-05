@@ -7,13 +7,13 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.1):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 1.2):
     
-https://drive.google.com/file/d/1JyX52PRWBFEhSz50mSJQ9MQi2Z2x8TFA/view
+https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.2b03):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
 
-https://drive.google.com/file/d/1sdHnN-OQmVwPBx7yIwwgMqdtyGGYaV_R/view
+https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
 # Known issues:
   
@@ -22,6 +22,10 @@ https://drive.google.com/file/d/1sdHnN-OQmVwPBx7yIwwgMqdtyGGYaV_R/view
     -Poor performance on USB 2.0.
 
 # Changelog
+    #EclipsedOS 1.2b03 -> EclipsedOS1.2
+    
+    -re-added community wallpapers.
+    -Will probably fix the wallpaper issues in 1.3
     
     #EclipsedOS 3122 -> EclipsedOS 1.2b03
         
@@ -163,9 +167,21 @@ https://drive.google.com/file/d/1sdHnN-OQmVwPBx7yIwwgMqdtyGGYaV_R/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 1.2
+
+https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
+
+    -Audio won't work well on chromebooks.
+    -default keyboard layout is now GB no matter your default layout but you can still change it.
+    -Poor performance on USB 2.0.
+
 # EclipsedOS 1.2b03
 
-https://drive.google.com/file/d/1sdHnN-OQmVwPBx7yIwwgMqdtyGGYaV_R/view?usp=share_link
+    -Audio won't work well on chromebooks.
+    -default keyboard layout is now GB no matter your default layout but you can still change it.
+    -Poor performance on USB 2.0.
+
+https://drive.google.com/file/d/1sdHnN-OQmVwPBx7yIwwgMqdtyGGYaV_R/view
 
 # EclipsedOS 3122
 
