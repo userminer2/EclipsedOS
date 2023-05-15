@@ -11,17 +11,30 @@ If you want to test the latest version please feel free to download the image fi
     
 https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
+If you want the latest stable version you can get it here (currently EclipsedOS 2.0 preview 1):
 
-https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
+https://drive.google.com/file/d/1b2pJnsj-ZLRh4h-4Sdpsvl3HKg90o730/view
 
 # Known issues:
-  
+    
+    -Not all icons are defined.
+    -Themes and icons not applying correctly(All themes resources etc are preinstalled and can be applied).
+    -Default browser not defined.
     -Audio won't work well on chromebooks.
     -default keyboard layout is now GB no matter your default layout but you can still change it.
     -Poor performance on USB 2.0.
 
 # Changelog
+
+    #EclipsedOS 1.2 -> 2.0 prv1
+    
+    -Increased iso filesize to 2.04GB due to new base being so bad on storage.
+    -The long lived bug of the themes and icons or background missing(from 1.0 alpha 6 -> 1.2) is now fixed just go to settings in case of any problems.
+    -Updated base to ubuntu 22.04.
+    -Retained firefox deb version(no snap)
+    -New desktop background and commands.
+    -Updated .bashrc(terminal)
+    
     #EclipsedOS 1.2b03 -> EclipsedOS1.2
     
     -re-added community wallpapers.
@@ -167,6 +180,16 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 2.0 prv1
+
+https://drive.google.com/file/d/1b2pJnsj-ZLRh4h-4Sdpsvl3HKg90o730/view
+
+    -Themes and icons not applying correctly(All themes resources etc are preinstalled and can be applied).
+    -Default browser not defined.
+    -Audio won't work well on chromebooks.
+    -default keyboard layout is now GB no matter your default layout but you can still change it.
+    -Poor performance on USB 2.0.
+
 # EclipsedOS 1.2
 
 https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
