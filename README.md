@@ -28,6 +28,7 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
     #EclipsedOS 1.2 -> 2.0 prv1
     
+    -Now 11GB of storage recommended.
     -Increased iso filesize to 2.04GB due to new base being so bad on storage.
     -The long lived bug of the themes and icons or background missing(from 1.0 alpha 6 -> 1.2) is now fixed just go to settings in case of any problems.
     -Updated base to ubuntu 22.04.
