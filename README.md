@@ -7,23 +7,27 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 alpha 2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 1):
 
-https://drive.google.com/file/d/1ceDWzgx6CFv7EH1eCVB_YJOYQ5x-EX2E/view
+https://drive.google.com/file/d/1KY4tfc0EUo_CM1QsTiuHtJ98fFMRcqh3/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
 
 https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
 # Known issues:
-    
-    -Themes and icons not applying correctly on installer only(All themes resources etc are preinstalled and can be applied).
-    -default keyboard layout is now GB no matter your default layout but you can still change it.
+
+    -Some missing icons.
     -Poor performance on USB 2.0.
 
 # Changelog
 
-    #EclipsedOS 1.2 -> 2.0a2
+    #EclipsedOS 2.0a2 -> 2.0b1
+    
+    -Fixed Themes and icons in installer.
+    -Added .bashrc.
+
+    #EclipsedOS 2.0 prv1 -> 2.0a2
 
     -Skipped 2.0a1 because why not and also it was buggier.
     -Fixed icons.
@@ -183,9 +187,21 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 2.0b1
+
+https://drive.google.com/file/d/1KY4tfc0EUo_CM1QsTiuHtJ98fFMRcqh3/view
+
+# Known issues:
+
+    -Some missing icons.
+    -Poor performance on USB 2.0.
+
+
 # EclipsedOS 2.0a2
 
 https://drive.google.com/file/d/1ceDWzgx6CFv7EH1eCVB_YJOYQ5x-EX2E/view
+
+# Known issues:
 
     -Themes and icons not applying correctly ON INSTALLER ONLY (All themes resources etc are preinstalled and can be applied).
     -default keyboard layout is now GB no matter your default layout but you can still change it.
@@ -194,6 +210,8 @@ https://drive.google.com/file/d/1ceDWzgx6CFv7EH1eCVB_YJOYQ5x-EX2E/view
 # EclipsedOS 2.0 prv1
 
 https://drive.google.com/file/d/1b2pJnsj-ZLRh4h-4Sdpsvl3HKg90o730/view
+
+# Known issues:
 
     -Themes and icons not applying correctly(All themes resources etc are preinstalled and can be applied).
     -Default browser not defined.
@@ -205,11 +223,15 @@ https://drive.google.com/file/d/1b2pJnsj-ZLRh4h-4Sdpsvl3HKg90o730/view
 
 https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
+# Known issues:
+
     -Audio won't work well on chromebooks.
     -default keyboard layout is now GB no matter your default layout but you can still change it.
     -Poor performance on USB 2.0.
 
 # EclipsedOS 1.2b03
+
+# Known issues:
 
     -Audio won't work well on chromebooks.
     -default keyboard layout is now GB no matter your default layout but you can still change it.
