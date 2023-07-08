@@ -7,9 +7,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 1):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 2):
 
-https://drive.google.com/file/d/1KY4tfc0EUo_CM1QsTiuHtJ98fFMRcqh3/view
+https://drive.google.com/file/d/1MXeCXJUxPU2K2SaeifjzrBdNFk6YpZcT/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
 
@@ -17,10 +17,17 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
 
 # Known issues:
 
-    -Some missing icons.
-    -Poor performance on USB 2.0.
+    -Missing icons for "default apps" as they are not defned.
 
 # Changelog
+
+    #EclipsedOS 2.0b1 -> 2.0b2
+
+    -Fixed usb 2.0 poor performance though usb 3.0 is reccomended.
+    -Updated installer.
+    -Changed Desktop Background.
+    -Updated ".bashrc".
+    -cleaned up useless files.
 
     #EclipsedOS 2.0a2 -> 2.0b1
     
@@ -187,6 +194,14 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 2.0b2
+
+https://drive.google.com/file/d/1MXeCXJUxPU2K2SaeifjzrBdNFk6YpZcT/view
+
+# Known issues:
+
+    -Missing icons for "default apps" as they are not defned.
+
 # EclipsedOS 2.0b1
 
 https://drive.google.com/file/d/1KY4tfc0EUo_CM1QsTiuHtJ98fFMRcqh3/view
