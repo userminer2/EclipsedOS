@@ -7,9 +7,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 3):
 
-https://drive.google.com/file/d/1MXeCXJUxPU2K2SaeifjzrBdNFk6YpZcT/view
+https://drive.google.com/file/d/1WWTNWj6mrsOQ-BvboIv4ldzYhbPkQHRi/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
 
@@ -20,6 +20,11 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Missing icons for "default apps" as they are not defned.
 
 # Changelog
+
+    #EclipsedOS 2.0b2 -> 2.0b3
+
+    -Updated ".bashrc".
+    -cleaned up useless files.
 
     #EclipsedOS 2.0b1 -> 2.0b2
 
@@ -194,6 +199,14 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 2.0b3
+
+https://drive.google.com/file/d/1WWTNWj6mrsOQ-BvboIv4ldzYhbPkQHRi/view
+
+# Known issues:
+
+    -Missing icons for "default apps" as they are not defned.
+
 # EclipsedOS 2.0b2
 
 https://drive.google.com/file/d/1MXeCXJUxPU2K2SaeifjzrBdNFk6YpZcT/view
