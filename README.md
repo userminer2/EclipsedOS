@@ -7,20 +7,25 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0 beta 3):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 2.0):
 
-https://drive.google.com/file/d/1WWTNWj6mrsOQ-BvboIv4ldzYhbPkQHRi/view
+https://drive.google.com/file/d/1z_SUnBSqE-CbTVgKf2vQCWVuyuXAKMoP/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.2):
+If you want the latest stable version you can get it here (currently EclipsedOS 2.0):
 
-https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
+https://drive.google.com/file/d/1z_SUnBSqE-CbTVgKf2vQCWVuyuXAKMoP/view
 
 # Known issues:
 
-    -Missing icons for "default apps" as they are not defned.
+    -None the lack of desktop backgrounds is intended on final install and other than that there won't be many changes comming to 2.1
 
 # Changelog
 
+    #EclipsedOS 2.0b3 -> 2.0
+    
+    -Updated ".bashrc" (teminal app).
+    -Fixed all bugs
+    
     #EclipsedOS 2.0b2 -> 2.0b3
 
     -Updated ".bashrc".
@@ -199,6 +204,14 @@ https://drive.google.com/file/d/1SgOwVd2ojbLH4eJe7mKe2BHlKkaVRKWd/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 2.0
+
+https://drive.google.com/file/d/1z_SUnBSqE-CbTVgKf2vQCWVuyuXAKMoP/view?usp=sharing
+
+# Known issues:
+
+    -None the desktop background will be temporarilly removed for 2.0 on final install only. This doesn't mean you can't still use it as the files are there. I will revert this change in the 2.1 release.
+
 # EclipsedOS 2.0b3
 
 https://drive.google.com/file/d/1WWTNWj6mrsOQ-BvboIv4ldzYhbPkQHRi/view
