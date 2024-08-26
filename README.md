@@ -25,6 +25,9 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
     #EclipsedOS 2.1 -> 3.0a1
 
     - Updated ".bashrc" (Terminal app).
+     - "Install <app>" is now "install-app <app>" to avoid issues with the install comand on linux.
+     - "remove <app> is now remove-app <app>"
+     - "remove" has been kept as a legacy commands so you can still use it.
     - Updated the path bar of thunar app to match the installer's path bar.
     - Updated kernel to version 6.8.
     - Updated firefox.
