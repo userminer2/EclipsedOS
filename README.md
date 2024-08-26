@@ -29,6 +29,7 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
     - Updated kernel to version 6.8.
     - Updated firefox.
     - Updated the panel to have a slight spacing between the Whisker menu icon and the app pinned app icons.
+    - Updated wallpaper.
 
     #EclipsedOS 2.0 -> 2.1
     
