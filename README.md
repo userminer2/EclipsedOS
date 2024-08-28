@@ -21,6 +21,11 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
 
 # Changelog
 
+    #EclipsedOS 3.0a1 -> 3.0b1
+    
+    - Updated the Terminal to reflect the changes to the installation of apps.
+    - Fixed hidden folders showing up by default. 
+    
     #EclipsedOS 2.1 -> 3.0a1
 
     - Updated ".bashrc" (Terminal app).
@@ -221,6 +226,14 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 3.0b1
+
+http://eclipsedosproject.sytes.net/eclipsedosproject/download/105/?tmstv=1724850347
+
+# Known issues:
+
+- Bugs in the terminal could appear.
+ 
 # EclipsedOS 3.0a1
 
 http://eclipsedosproject.sytes.net/eclipsedosproject/download/93/?tmstv=1724635796
