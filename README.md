@@ -9,7 +9,7 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0a1):
 
-http://eclipsedosproject.sytes.net/eclipsedosproject/download/93/?tmstv=1724635796
+http://eclipsedosproject.sytes.net/eclipsedosproject/download/105/?tmstv=1724850347
 
 If you want the latest stable version you can get it here (currently EclipsedOS 2.1):
 
@@ -17,8 +17,7 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
 
 # Known issues:
 
-- .bashrc does not show correct command for installing apps.
-- Hidden files are shown by default.
+- Bugs in the terminal.
 
 # Changelog
 
