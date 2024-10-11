@@ -20,6 +20,10 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
 - I believe this will be the final release candidate before I move on to the full release.
 
 # Changelog
+    #EclipsedOS 3.0b2 -> 3.0rc2
+
+    - Updated Terminal app and fixed the grub not correctly identifying eclipsedOS.
+    
     #EclipsedOS 3.0b1 -> 3.0b2
     
     - Updated the Terminal to fix bugs.
