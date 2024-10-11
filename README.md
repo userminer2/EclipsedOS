@@ -7,9 +7,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0b2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0rc2):
 
-https://eclipsedosproject.sytes.net/eclipsedosproject/download/569/?tmstv=1727384200
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/674/?tmstv=1728661788
 
 If you want the latest stable version you can get it here (currently EclipsedOS 2.1):
 
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
 
 # Known issues:
 
-- 
+- I believe this will be the final release candidate before I move on to the full release.
 
 # Changelog
     #EclipsedOS 3.0b1 -> 3.0b2
@@ -231,6 +231,22 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 3.0rc2
+
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/674/?tmstv=1728661788
+
+# Known issues:
+
+ - I think I fixed the last one.
+
+# EclipsedOS 3.0rc1
+
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/668/?tmstv=1728077735
+
+# Known issues:
+
+ - Buged boot screen.
+
 # EclipsedOS 3.0b2
 
 http://eclipsedosproject.sytes.net/eclipsedosproject/download/150/?tmstv=1725840772
