@@ -7,19 +7,24 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0rc2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0):
 
-https://eclipsedosproject.sytes.net/eclipsedosproject/download/674/?tmstv=1728661788
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/686/?tmstv=1731776056
 
-If you want the latest stable version you can get it here (currently EclipsedOS 2.1):
+If you want the latest stable version you can get it here (currently EclipsedOS 3.0):
 
-https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/686/?tmstv=1731776056
 
 # Known issues:
 
-- I believe this will be the final release candidate before I move on to the full release.
+- Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones.
 
 # Changelog
+    #EclipsedOS 3.0b2 -> 3.0rc2
+
+    - Updated Terminal app and fixed the grub not correctly identifying eclipsedOS.
+    - Added "debinstall" command.
+
     #EclipsedOS 3.0b2 -> 3.0rc2
 
     - Updated Terminal app and fixed the grub not correctly identifying eclipsedOS.
@@ -235,6 +240,14 @@ https://drive.google.com/file/d/1538cb6LGc_beHcSay6I_Bo18AYudkQcC/view
     -Fixed the "Icons".(?)
     -Fixed preinstalled apps not working
     -Skipped Alpha 0.0.2 and 0.0.3 as they are both far too unstable to use.
+# EclipsedOS 3.0
+
+https://eclipsedosproject.sytes.net/eclipsedosproject/download/686/?tmstv=1731776056
+
+# Known issues:
+
+  - Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones.
+
 # EclipsedOS 3.0rc2
 
 https://eclipsedosproject.sytes.net/eclipsedosproject/download/674/?tmstv=1728661788
