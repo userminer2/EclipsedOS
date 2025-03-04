@@ -7,9 +7,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.0):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.2):
 
-https://eclipsedosproject.sytes.net/eclipsedosproject/download/686/?tmstv=1731776056
+https://eclipsedosproject.sytes.net/EclipsedOS-3.2.iso
 
 If you want the latest stable version you can get it here (currently EclipsedOS 3.0):
 
