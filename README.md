@@ -30,6 +30,7 @@ https://eclipsedosproject.sytes.net/isofiles/
     - New "distrib-update" command to update themes, terminal commands and potentially expand that feature.
     - made "debinstaller" command take a file path as an argument.
     - old "debinstaller" command still works
+    - Added "beta" and "stable" channels which can be switched by entering the command "ChannelSwitch" in terminal.
     
     #EclipsedOS 3.0b2 -> 3.0rc2
 
