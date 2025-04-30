@@ -7,6 +7,8 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
+The distro uses xubuntu 22.04 as it's base. I chose to keep xfce as it was the desktop environment that balanced appearance with performance the best on my 2008 imac.
+
 If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.5):
 
 https://eclipsedosproject.sytes.net/isofiles/EclipsedOS-3.5.iso
