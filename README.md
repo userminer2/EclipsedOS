@@ -7,19 +7,30 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 3.5):
 
-https://eclipsedosproject.sytes.net/EclipsedOS-3.2.iso
+https://eclipsedosproject.sytes.net/isofiles/EclipsedOS-3.5.iso
 
-If you want the latest stable version you can get it here (currently EclipsedOS 3.0):
+If you want the latest stable version you can get it here (currently EclipsedOS 3.5):
 
-https://eclipsedosproject.sytes.net/eclipsedosproject/download/686/?tmstv=1731776056
+https://eclipsedosproject.sytes.net/isofiles/EclipsedOS-3.5.iso
+
+All versions of EclipsedOS can be found at:
+https://eclipsedosproject.sytes.net/isofiles/
 
 # Known issues:
 
 - Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones.
 
 # Changelog
+
+    #Eclipsed OS 3.0 -> 3.5:
+
+    - Improved overall stability of the OS.
+    - New "distrib-update" command to update themes, terminal commands and potentially expand that feature.
+    - made "debinstaller" command take a file path as an argument.
+    - old "debinstaller" command still works
+    
     #EclipsedOS 3.0b2 -> 3.0rc2
 
     - Updated Terminal app and fixed the grub not correctly identifying eclipsedOS.
