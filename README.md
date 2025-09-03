@@ -25,7 +25,13 @@ https://eclipsedosproject.sytes.net/isofiles/
 - Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones.
 
 # Changelog
+    #Eclipsed OS 3.5 -> 4.0a2:
 
+    - Upgraded the base to linux mint 22.04
+    - Updated the UI to be significantly better in my opinion and less like windows.
+    - Updated terminal.
+    - Better wallpaper from speedpaint :).
+    
     #Eclipsed OS 3.0 -> 3.5:
 
     - Improved overall stability of the OS.
