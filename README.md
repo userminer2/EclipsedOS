@@ -9,9 +9,9 @@ EclipsedOS is a linux distro made to run on low end devices (chrome devices shou
 
 The distro uses xubuntu 22.04 as it's base. I chose to keep xfce as it was the desktop environment that balanced appearance with performance the best on my 2008 imac.
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 4.0a2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOS 4.0a3):
 
-https://eclipsedosproject.sytes.net/isofiles/EclipsedOS-4.0a2.iso
+https://eclipsedosproject.sytes.net/isofiles/EclipsedOS-4.0a3.iso
 
 If you want the latest stable version you can get it here (currently EclipsedOS 3.5):
 
@@ -22,9 +22,17 @@ https://eclipsedosproject.sytes.net/isofiles/
 
 # Known issues:
 
-- Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones.
+- Installer theme is not the right one but that is way better than unbootable OS \_(¨/)_/. NOTE: If you click (try eclipsed os) the themes and icons will be the right ones. (3.5 affected)
 
 # Changelog
+    #Eclipsed OS 4.0a3 -> 4.0a4(ongoing):
+
+    - Added CoreCtrl to easier manage the usage of the cpu.
+
+    #Eclipsed OS 4.0a2 -> 4.0a3:
+
+    - Improved the UI a bit more by making the whisker menu use icons instead of listing apps.
+    
     #Eclipsed OS 3.5 -> 4.0a2:
 
     - Upgraded the base to linux mint 22.04
